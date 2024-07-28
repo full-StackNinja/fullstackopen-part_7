@@ -193,7 +193,7 @@ const App = () => {
   };
 
   return (
-    <div>
+    <div className="container">
       <h1>Software anecdotes</h1>
       <Menu />
       {notification ? (
